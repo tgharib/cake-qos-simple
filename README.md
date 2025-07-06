@@ -247,7 +247,7 @@ sg gaming "wget https://releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso
 # Check DSCP is EF using Wireshark
 ```
 
-![](wireshark.png)
+![wireshark](https://github.com/user-attachments/assets/e8ec1de6-341b-4573-8357-7fa1ce1b0860)
 
 #### Nftables method: match by user
 
